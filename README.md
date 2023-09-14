@@ -1,9 +1,8 @@
-# torii-next
+# Jinja-Tester
 
-[![CircleCI](https://circleci.com/gh/shirakiya/torii-next/tree/main.svg?style=svg)](https://circleci.com/gh/shirakiya/torii-next/tree/main)
 
 Pratical tool to test Jinja2 created with [Next.js](https://nextjs.org/)  
-Visit https://torii.shirakiya.com/ .
+Visit jinja-tester.versal.app
 
 ## Getting Started
 
@@ -19,9 +18,7 @@ Then you can run to development server.
 $ make up
 ```
 
-## CI
 
-This project uses [CircleCI](https://app.circleci.com/pipelines/github/shirakiya/torii-next) for lint.
 
 ## Deploy
 
