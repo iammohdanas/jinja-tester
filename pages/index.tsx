@@ -56,9 +56,9 @@ const Home: NextPage = ({}) => {
           <div id="top-message">
             <Card>
               <Card.Body>
-                <Card.Title>What&rsquo;s Torii?</Card.Title>
-                Torii(鳥居) is the testing tool for Jinja2. You can test or use
-                Jinja2 by trial with Torii.
+                <Card.Title>What&rsquo;s Jinja-Tester?</Card.Title>
+                Jinja-Tester is the testing tool for Jinja2. You can test or use
+                Jinja2 by trial with Jinja-Tester.
               </Card.Body>
             </Card>
           </div>
