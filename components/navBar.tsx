@@ -62,7 +62,7 @@ const NavBar: React.FC<Props> = ({ pythonVersion, jinjaVersion }) => {
             {/* shirakiya: If use the Image component from next/image, Bootstrap CSS is not able to interpret the image brand. */}
             {/* eslint @next/next/no-img-element: 0 */}
             <img src="/torii_512.png" alt="torii-logo" width="30" height="30" />
-            Torii(鳥居) β
+            Jinja-Tester
           </a>
         </Link>
 
